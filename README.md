@@ -54,3 +54,8 @@ text.readtime #=> "2 minute read"
 text.readtime(reading_speed: 300) #=> "1 minute read"
 text.readtime(reading_speed: 200, format: :long) #=> "1 minute 30 second read"
 ```
+
+## TODO
+
+- I18n support
+- Calculation based on images
